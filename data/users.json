@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "Abdullah",
+        "lastName": "Khan",
+        "username": "abdullah",
+        "hash": "$2a$10$TEceSRkyGWkNS3bV.tG3SeumezJB54p.0e7wln8lEJxko2NrIEJLi",
+        "id": 1,
+        "dateCreated": "2022-04-27T09:06:33.474Z",
+        "dateUpdated": "2022-04-27T09:06:33.474Z"
+    },
+    {
+        "username": "abdullah@gmail.com",
+        "hash": "$2a$10$WZ7oOjFacsnmThPIKZJmSuiL3EIisKFQ/GsXNUdWt3kW3mdaScUFK",
+        "id": 2,
+        "dateCreated": "2022-04-27T09:21:43.263Z",
+        "dateUpdated": "2022-04-27T09:21:43.263Z"
+    },
+    {
+        "firstName": "abdullah",
+        "lastName": "khan",
+        "username": "abdullah1@gmail.com",
+        "hash": "$2a$10$VPML3ejDm8aU/NpraxaB.ejBhQK2Npbf6BtHsyZnECwX7X8M/EYIa",
+        "id": 3,
+        "dateCreated": "2022-04-27T09:30:06.252Z",
+        "dateUpdated": "2022-04-27T09:30:06.252Z"
+    }
+]
